@@ -26,7 +26,7 @@ In the project directory, you can run: [My App](https://github.com/ArturWieczfni
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000/todo-list-react](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000/todo-list-react-2025](link) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
