@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArturWieczfninski/todolistreact2025.git/static/css/main.8938a621.css",
-    "main.js": "/ArturWieczfninski/todolistreact2025.git/static/js/main.6cfad5ed.js",
-    "static/js/787.d93b6323.chunk.js": "/ArturWieczfninski/todolistreact2025.git/static/js/787.d93b6323.chunk.js",
-    "index.html": "/ArturWieczfninski/todolistreact2025.git/index.html",
-    "main.8938a621.css.map": "/ArturWieczfninski/todolistreact2025.git/static/css/main.8938a621.css.map",
-    "main.6cfad5ed.js.map": "/ArturWieczfninski/todolistreact2025.git/static/js/main.6cfad5ed.js.map",
-    "787.d93b6323.chunk.js.map": "/ArturWieczfninski/todolistreact2025.git/static/js/787.d93b6323.chunk.js.map"
+    "main.css": "/ArturWieczfninski/todo-list-react-2025.git/static/css/main.8938a621.css",
+    "main.js": "/ArturWieczfninski/todo-list-react-2025.git/static/js/main.a19388cc.js",
+    "static/js/787.d5ecec29.chunk.js": "/ArturWieczfninski/todo-list-react-2025.git/static/js/787.d5ecec29.chunk.js",
+    "index.html": "/ArturWieczfninski/todo-list-react-2025.git/index.html",
+    "main.8938a621.css.map": "/ArturWieczfninski/todo-list-react-2025.git/static/css/main.8938a621.css.map",
+    "main.a19388cc.js.map": "/ArturWieczfninski/todo-list-react-2025.git/static/js/main.a19388cc.js.map",
+    "787.d5ecec29.chunk.js.map": "/ArturWieczfninski/todo-list-react-2025.git/static/js/787.d5ecec29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8938a621.css",
-    "static/js/main.6cfad5ed.js"
+    "static/js/main.a19388cc.js"
   ]
 }
