@@ -2,7 +2,7 @@
   "name": "todo-list-react-2025",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ArturWieczfninski/todo-list-react-2025.git",
+  "homepage": "https://arturwieczfninski.github.io/todo-list-react-2025/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
