@@ -9,7 +9,7 @@ import { useState } from "react";
 function App() {
   const [hideDone, setHideDone] = useState(false);
   const [tasks, setTasks] = useState([
-    { id: 1, content: "przejść na Reacta", done: false },
+    { id: 1, content: "gggg na Reacta", done: false },
     { id: 2, content: "zjeść obiad", done: true },
   ]);
 
