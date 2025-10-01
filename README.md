@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/ArturWi
 
 ## Available Scripts
 
-In the project directory, you can run: [My App](https://github.com/ArturWieczfninski/todolistreact2025.git)
+In the project directory, you can run: [My App](https://arturwieczfninski.github.io/todo-list-react-2025/)
 
 ![Pictures My App](public/MyApp.png)
 
