@@ -24,9 +24,9 @@ export const Content = styled.span`
       text-decoration: line-through;
     `}
 `;
-export const button = styled.button`
+export const Button = styled.button`
   border: none;
-  color: ${({ theme }) => theme.colors.blue};
+  color: ${({ theme }) => theme.colors.white};
   width: 30px;
   height: 30px;
   padding: 0;
