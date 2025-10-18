@@ -1,5 +1,10 @@
-import "./style.css";
+import { Wrapper } from "./styled";
 
-const Container = ({ children }) => <div className="container">{children}</div>;
+const Container = ({ children }) => (
+    <Wrapper>  
+        {children}
+    </Wrapper>
+)
+
 
 export default Container;
