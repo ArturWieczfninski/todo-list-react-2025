@@ -1,12 +1,14 @@
-import { Wrapper, Body, Header, Tittle } from "./sttyled";
+import { Wrapper, Body, Header, Title } from "./styled";
 
 const Section = ({ title, body, exstraHeaderContent }) => (
   <Wrapper>
     <Header>
-      <Tittle>{title}</Tittle>
+      <Title>{title}</Title>
       {exstraHeaderContent}
     </Header>
-    <Body>{body}</Body>
+    <Body>
+      {body}
+      </Body>
   </Wrapper>
 
 );
