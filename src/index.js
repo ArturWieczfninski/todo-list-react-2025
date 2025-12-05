@@ -4,14 +4,16 @@ import { ThemeProvider } from "styled-components";
 import {GlobalStyle} from "./GlobalStyle";
 import { theme } from "./theme";
 import App from "./App";
+import TaskList from "./features/TaskList";
 import reportWebVitals from "./reportWebVitals";
+
 
 
 ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyle />
-      <App />
+      <TaskList />
     </ThemeProvider>
   </React.StrictMode>,
   document.getElementById('root')
