@@ -2,9 +2,9 @@ import { selectIsEveryTaskDone, selectTasks } from "../useTask";
 import { Wrapper, Button } from "./styled";
 
 const Buttons = () => {
-  const areTasksEmpty = useSekector(selectTasks);
-  const isEceryTaskDone = useSekector(selectIsEveryTaskDone);
-  const hideDone = useSekector(selectHideDone);
+  const areTasksEmpty = useSelector(selectTasks);
+  const isEceryTaskDone = useSelector(selectIsEveryTaskDone);
+  const hideDone = useSelector(selectHideDone);
 
   const dispach = useDispatch();
 
