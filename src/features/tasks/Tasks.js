@@ -1,10 +1,9 @@
 import Form from "./Form";
-import Tasks from "./Tasks";
 import Buttons from "./Buttoms";
 import Section from "../../common/Section";
 import Header from "../../common/Header";
 import Container from "../../common/Container";
-import TaskList from "../TaskList";
+import TaskList from "./TaskList";
 
 function Tasks() {                                                                                                                                                                                                                                                                                                                                                                                                                                                            
   return (

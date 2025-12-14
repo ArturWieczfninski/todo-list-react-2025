@@ -1,4 +1,8 @@
-import { selectIsEveryTaskDone, selectTasks } from "../useTask";
+import { 
+  selectIsEveryTaskDone, 
+  selectTasks, 
+  selectHideDone } 
+  from "../../features/useTask";
 import { Wrapper, Button } from "./styled";
 
 const Buttons = () => {

@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import { ThemeProvider } from "styled-components";
 import {GlobalStyle} from "./GlobalStyle";
 import { theme } from "./theme";
-import Tasks from "./features/tasks/Tasks";
+import Tasks from "./features/Tasks";
 import reportWebVitals from "./reportWebVitals";
 
 
